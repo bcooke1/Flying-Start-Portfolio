@@ -1,5 +1,30 @@
 /* Add your css here */
 
 .avatar {
-  width: 300px;
+  width: 600px;
+  align-content: center;
+}
+
+body {
+  background-color: #2e3b48;
+}
+
+h1 {
+  color:#dbe0e6;
+  text-align: center;
+  font-size:40px;
+}
+h2 {
+  color:#dbe0e6;
+  text-align: center;
+  font-size:40px;
+}
+p {
+  color:#dbe0e6;
+  font-size: 20px;
+}
+
+li {
+  color:#dbe0e6;
+  font-size:20px;
 }
